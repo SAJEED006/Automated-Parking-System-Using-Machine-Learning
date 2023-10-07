@@ -9,6 +9,9 @@
     </header
 
 #Verify My Certificate https://v.certiefy.com/S0VZR0VOMuKLhft23jKYb_fp2X3i6oOfelRAItjq_Yl1ouSprTVE4Fn5TVvAAxIjwbJCS7ud5MDcG6wR4iJClluDYpjHJKxyhqF4LIjmpqQujSAPzar0hK77YpY0XMKUEpns2PA50FUftuNZPJqpsKvEU3Gf4HhpXFpHGzDEmDjiPLyfk6fhAhYT2-qExMnEG0IVCtMco9ApNUUfLEHQhkdT5dIn7ZKepPto_uvFG_sWYkp0UpTegYZv354X5kJpovzwcN_MoRkdkH36pvik3XGAHRgxvNKwmu4eVpbRC-XB0No9rR9DHp_CLv6roJ3_DnZWQ_0gD4CrWOKLhcquKF5OHS8i1kDvC3d1CQyP0-lPMKR_6kqJ4VhnFVPr
+
+
+
 #output 1
 
 ![screenshot1](https://github.com/SAJEED006/Automated-Parking-System-Using-Machine-Learning/assets/110912467/98cbf67b-0610-423e-ba0e-fa09a721d032)
