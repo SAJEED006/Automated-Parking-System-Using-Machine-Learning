@@ -10,10 +10,10 @@
 
 #Developers
 
-SAJEED-->https://github.com/sajeed006
-MAAZ-->https://github.com/f1delius
-AZEEM-->https://github.com/maazrakkasgi
-ADIL-->https://github.com/badekhanadil
+#SAJEED-->https://github.com/sajeed006
+#MAAZ-->https://github.com/f1delius
+#AZEEM-->https://github.com/maazrakkasgi
+#ADIL-->https://github.com/badekhanadil
             
 
    
