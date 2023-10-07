@@ -6,23 +6,7 @@
     <header>
         <h1>Automated Parking System Using Machine Learning</h1>
         <p>Your solution for efficient and smart parking management.</p>
-    </header>
-
-#Developers
-
-#SAJEED-->https://github.com/sajeed006
-##MAAZ-->https://github.com/f1delius
-###AZEEM-->https://github.com/maazrakkasgi
-####ADIL-->https://github.com/badekhanadil
-            
-
-   
-
-Technologies Used
-1.Python
-2.C++<
-3.Html
-4.Dart
+    </header
 
 
 #output 1
