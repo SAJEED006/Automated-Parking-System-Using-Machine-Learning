@@ -10,10 +10,10 @@
 
 #Developers
 
-https://github.com/sajeed006">Sajeed Malagi
- https://github.com/f1delius">Azeem Bekinalkar
-https://github.com/maazrakkasgi">Maaz Rakkasgi
-https://github.com/badekhanadil">Adil Badekhan
+SAJEED-->https://github.com/sajeed006
+MAAZ-->https://github.com/f1delius
+AZEEM-->https://github.com/maazrakkasgi
+ADIL-->https://github.com/badekhanadil
             
 
    
