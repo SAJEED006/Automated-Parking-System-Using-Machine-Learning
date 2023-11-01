@@ -12,7 +12,7 @@
 
 
 
-#output 1
+##output 1
 
 ![screenshot1](https://github.com/SAJEED006/Automated-Parking-System-Using-Machine-Learning/assets/110912467/98cbf67b-0610-423e-ba0e-fa09a721d032)
 
